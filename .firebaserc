@@ -1,0 +1,11 @@
+{
+  "targets": {
+    "ingreso-egreso-app-hleyf": {
+      "hosting": {
+        "ingresos-app": [
+          "ingreso-egreso-app-hleyf"
+        ]
+      }
+    }
+  }
+}
